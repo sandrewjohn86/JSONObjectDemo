@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSON Object Demo</string>
+    <string name="action_settings">Settings</string>
+</resources>
